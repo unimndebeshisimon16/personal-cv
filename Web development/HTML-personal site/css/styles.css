@@ -1,0 +1,17 @@
+/*reset*/
+body {
+  background-color: #c0c0c0;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 20%;
+}
+h1 {
+  color: #915c83;
+}
+h3 {
+  color: #485292;
+}
